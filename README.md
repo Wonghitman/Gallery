@@ -1,5 +1,5 @@
 # Gallery
-简易图片画 使用到的依赖2023-11-21更新：
+简易图片画廊 使用到的依赖2023-11-21更新：
 
     implementation 'com.android.volley:volley:1.2.1'
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
